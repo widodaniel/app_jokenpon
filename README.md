@@ -1,16 +1,1 @@
-# jokenpo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App Desenvolvido com intuito de aprofundar meus conhecimentos na linguagem Flutter, dentro do App podemos selecionar Pedra, Papel ou Tesoura e o app automaticamente vai gerar uma imagem aleatoria desses 3 itens e caso o item escolhido por você seja mais forte aparacerá a mensagem de vitoria, caso seja mais fraco sera derrota e se for igual teremos um empate
