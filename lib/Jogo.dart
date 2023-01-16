@@ -56,6 +56,7 @@ class _JogoState extends State<Jogo> {
     return Scaffold(
       appBar: AppBar(
         title: Text("JokenPo"),
+        backgroundColor: Colors.deepPurple,
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
@@ -66,7 +67,7 @@ class _JogoState extends State<Jogo> {
               "Escolha do App: ",
               textAlign: TextAlign.center,
               style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 25,
                   fontWeight: FontWeight.bold
               ),
             ),
@@ -80,7 +81,8 @@ class _JogoState extends State<Jogo> {
               _mensagem,
               textAlign: TextAlign.center,
               style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 15,
+                  fontStyle: FontStyle.italic,
                   fontWeight: FontWeight.bold
               ),
             ),
